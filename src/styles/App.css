@@ -10,3 +10,24 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+#markdown{
+    display: flex;
+}
+
+.textarea{
+    width : 50%;
+    height: 600px;
+    background-color: #eff1f5;
+}
+.preview{
+    width : 50%;
+    height: 600px;
+    background-color: #e8eaf1;
+}
+textarea{
+    border: none;
+    background-color: #eff1f5;
+    width : 98%;
+    height : 600px;
+}
